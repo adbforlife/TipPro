@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipPro/ViewController.swift"
+            timestampString = "497208863.173038"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.totalAmountField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208863.175606"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.totalAmountField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208863.177136"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; TipPro.ViewController"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208863.177272"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "277">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TipPro.ViewController&gt;"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208863.177375"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipPro/ViewController.swift"
+            timestampString = "497208869.183407"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.tipSelector.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISegmentedControl&gt;"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208869.185889"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.tipSelector.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISegmentedControl&gt;"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208869.186024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; TipPro.ViewController"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208869.18613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipPro.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TipPro.ViewController&gt;"
+                  moduleName = "TipPro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ADB/Desktop/TipPro/TipPro/ViewController.swift"
+                  timestampString = "497208869.186222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipPro/ViewController.swift"
+            timestampString = "497208873.040585"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
